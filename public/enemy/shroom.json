@@ -1,0 +1,111 @@
+{
+  "frames": {
+    "mushroom run 02.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 664,
+        "y": 64,
+        "w": 24,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 1200,
+        "h": 150
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "mushroom run 03.png": {
+      "frame": {
+        "x": 0,
+        "y": 37,
+        "w": 23,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 664,
+        "y": 64,
+        "w": 23,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 1200,
+        "h": 150
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "mushroom run 04.png": {
+      "frame": {
+        "x": 0,
+        "y": 74,
+        "w": 23,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 664,
+        "y": 63,
+        "w": 23,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 1200,
+        "h": 150
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "mushroom run 01.png": {
+      "frame": {
+        "x": 0,
+        "y": 111,
+        "w": 23,
+        "h": 36
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 664,
+        "y": 62,
+        "w": 23,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 1200,
+        "h": 150
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.6",
+    "image": "shroom.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 24,
+      "h": 147
+    },
+    "scale": 1
+  }
+}
